@@ -1,0 +1,19 @@
+ProductID,ProductName,StockQuantity,Price,Category
+1,Bottles,50,450.00,Stationary
+2,Pencil,300,10.00,Stationary
+3,Notebook,70,400.00,Stationary
+4,Laptop,15,45000.00,Eletronics
+5,Headphone,120,5500.00,Eletronics
+6,Smartphone,2000,25000.00,Eletronics
+7,Anivirus,20,4500.00,Software
+8,"Microsoft 360",100,36000.00,Software
+9,Netflix,90,700.00,Software
+10,Bottles,50,450.00,Stationary
+11,Pencil,300,10.00,Stationary
+12,Notebook,70,400.00,Stationary
+13,Laptop,15,45000.00,Eletronics
+14,Headphone,120,5500.00,Eletronics
+15,Smartphone,2000,25000.00,Eletronics
+16,Anivirus,20,4500.00,Software
+17,"Microsoft 360",100,36000.00,Software
+18,Netflix,90,700.00,Software

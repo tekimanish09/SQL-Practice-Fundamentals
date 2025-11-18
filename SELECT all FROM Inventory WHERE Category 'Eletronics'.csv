@@ -1,0 +1,7 @@
+ProductID,ProductName,StockQuantity,Price,Category
+4,Laptop,15,45000.00,Eletronics
+5,Headphone,120,5500.00,Eletronics
+6,Smartphone,2000,25000.00,Eletronics
+13,Laptop,15,45000.00,Eletronics
+14,Headphone,120,5500.00,Eletronics
+15,Smartphone,2000,25000.00,Eletronics
